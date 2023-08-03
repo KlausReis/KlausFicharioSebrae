@@ -20,7 +20,7 @@ Programa exclusivo e gratuito, promovido por Claudio Geovane, para agregar em se
 <br>
 
 <p align="center">
-  <img alt="projeto Fichário Sebrae" src=".assets/ReadmeSebrae.jpeg" width="100%">
+  <img alt="projeto Fichário Sebrae" src="assets/ReadmeSebrae.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
