@@ -4,7 +4,6 @@
   margin: 0 auto;
   padding: 0 2%;
   flex-wrap: wrap;
-
 }
 
 .about-header {
@@ -12,18 +11,16 @@
   background-color: #3b6acd;
   border-radius: 8px;
   font-size: 30px;
-
 }
 
-.about-header p{
+.about-header p {
   color: white;
   padding: 8px;
   text-align: center;
 }
 
 header h2 span {
-color: #5886ea;
-
+  color: #5886ea;
 }
 
 header h2 {
@@ -33,7 +30,6 @@ header h2 {
 
 .logo {
   margin-top: 10px;
-  
 }
 
 .wraper-header {
@@ -41,7 +37,6 @@ header h2 {
   width: 100%;
   display: flex;
   justify-content: space-between;
-
 }
 
 .banner-ads {
@@ -59,7 +54,6 @@ header h2 {
   color: white;
   font-size: 20px;
   font-style: bold;
-  
 }
 .menu-main {
   width: 100%;
@@ -67,26 +61,23 @@ header h2 {
   padding: 8px;
   background-color: #222;
   border-radius: 8px;
-
 }
 
-.menu-main a{
+.menu-main a {
   display: inline-block;
   margin: 0 10px;
   color: white;
   border-radius: 8px;
   text-decoration: none;
-    
 }
 
 .menu-main a:hover {
-  text-decoration: underline;  
+  text-decoration: underline;
 }
 
 .noticias-wraper-1 {
-  display:inline-block;
+  display: inline-block;
   width: 1100px;
-
 }
 
 .noticia-destaque {
@@ -97,7 +88,6 @@ header h2 {
   position: relative;
   background-image: url(../assets/bg-azul2.jpg);
   color: black;
-
 }
 
 .noticia-destaque-single {
@@ -108,22 +98,19 @@ header h2 {
   height: 100%;
   background-size: cover;
   background-position: center;
-  
 }
 
-.noticia-destaque-single h3{
+.noticia-destaque-single h3 {
   width: auto;
   padding: 10px;
   color: white;
-  background-color: rgba(0,0,0,0.6);
-
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .outras-noticias-1 {
   display: flex;
   width: 50%;
   flex-wrap: wrap;
-  
 }
 
 .outras-noticias-1-single {
@@ -144,8 +131,7 @@ header h2 {
   width: auto;
   padding: 10px;
   color: white;
-  background-color: rgba(0,0,0,0.6);
-  
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .outras-noticias-1-single li {
